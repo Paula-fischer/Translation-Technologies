@@ -1,0 +1,394 @@
+<?xml version="1.0" encoding="utf-8"?>
+<tmx version="1.4b">
+<header creationtool="tx" creationtoolversion="3.0.0.17037" segtype="block" o-tmf="LogiTerm XML Bitext" adminlang="en-US" srclang="en" datatype="plaintext">
+<note>Converted from LogiTerm XML Bitext fortmat by tx 3.0.0.17037 on 2020-11-23 2:08:25 PM</note>
+<prop type="lt-title">Can renewable energy power Latin America_ENG-ESP_BT.xml</prop>
+<prop type="lt-segmrules">SRX</prop>
+<prop type="lt-filtering"></prop>
+<prop type="lt-namesrc">C:\Web\YouAlign2018\Temp\wxf1fslzi2w0gtcb5od2aocu\Can renewable energy power Latin America.docx</prop>
+<prop type="lt-nametgt">C:\Web\YouAlign2018\Temp\wxf1fslzi2w0gtcb5od2aocu\Puede la energía renovable impulsar la recuperación de América Latina después del covid.docx</prop>
+<prop type="lt-titlesrc"></prop>
+<prop type="lt-titletgt"></prop>
+<prop type="lt-datesrc">11/23/2020 2:07:29 PM</prop>
+<prop type="lt-datetgt">11/23/2020 2:07:29 PM</prop>
+<prop type="lt-datebtx">11/23/2020 2:07:29 PM</prop>
+</header>
+<body>
+<tu>
+<tuv xml:lang="en">
+<seg><bpt i="0" type="bold">&lt;b&gt;</bpt>Can renewable energy power Latin America.docx<ept i="1">&lt;/b&gt;</ept></seg>
+</tuv>
+<tuv xml:lang="es">
+<seg><bpt i="0" type="bold">&lt;b&gt;</bpt>Puede la energía renovable impulsar la recuperación de América Latina después del covid.docx<ept i="1">&lt;/b&gt;</ept></seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="en">
+<seg>Can renewable energy power Latin America’s recovery after Covid-19?</seg>
+</tuv>
+<tuv xml:lang="es">
+<seg>¿Puede la energía renovable impulsar la recuperación de América Latina después del covid-19?</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="en">
+<seg>The Covid-19 pandemic is pushing the global economy into its first recession since 2009, and Latin America is feeling the strain.</seg>
+</tuv>
+<tuv xml:lang="es">
+<seg>La pandemia del covid-19 está arrastrando a la economía mundial hacia su primera recesión desde 2009. América Latina comienza a sentir la presión.</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="en">
+<seg>As governments bring in emergency measures and corporate leaders enact cost-cutting strategies, a return to normality is still some way off.</seg>
+</tuv>
+<tuv xml:lang="es">
+<seg>Además, mientras los gobiernos adoptan medidas de emergencia y los líderes corporativos implementan estrategias para reducir sus costos, una vuelta a la normalidad se vislumbra a lo lejos.</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="en">
+<seg>However, the road to recovery could be paved by the opportunities presented by renewable energy, opening the way for a sustainable, more equitable future.</seg>
+</tuv>
+<tuv xml:lang="es">
+<seg>Sin embargo, la energía renovable podría allanar el camino hacia la recuperación y abrir las puertas a un futuro sostenible y equitativo.</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="en">
+<seg>As the coronavirus outbreak continues to roil world markets, a fall in global economic activity is hurting Latin America’s goods and services exports, disrupting supply chains, and tightening financial conditions.</seg>
+</tuv>
+<tuv xml:lang="es">
+<seg>A medida que el coronavirus agita los mercados, la caída de la actividad económica mundial perjudica las exportaciones de bienes y servicios de América Latina, irrumpe en las cadenas de suministro y endurece las condiciones financieras.</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="en">
+<seg>In the markets we work in, companies are racing to cut costs, while governments are moving to mitigate the health, societal and economic impacts of the virus, with containment measures, emergency liquidity programs, and fiscal stimulus packages.</seg>
+</tuv>
+<tuv xml:lang="es">
+<seg>En los mercados en los que trabajamos, las compañías se esfuerzan por reducir costos y los gobiernos intentan mitigar los efectos sanitarios, sociales y económicos del virus con medidas de restricción de movimiento, programas de liquidez monetaria y estímulos fiscales.</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="en">
+<seg>These short-term measures have served to address the immediate issues thrown up by the pandemic, but for sustainable, long-term resilience, we believe a solid energy strategy is going to be central to future plans – and renewables will provide the answer.</seg>
+</tuv>
+<tuv xml:lang="es">
+<seg>No obstante, si bien las medidas a corto plazo han servido para abordar los desafíos inmediatos de la pandemia, creemos que para lograr una resiliencia sostenible a largo plazo es fundamental definir una estrategia energética sólida con visión a futuro en la que, sin duda, las energías renovables serán clave.</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="en">
+<seg>Company cost-cutting measures</seg>
+</tuv>
+<tuv xml:lang="es">
+<seg>Las empresas reducen sus costos</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="en">
+<seg>In the Latin American markets where we operate, we’re seeing business leaders taking stock of their costs and trying to make accurate assessments about future revenue and draw up effective business plans.</seg>
+</tuv>
+<tuv xml:lang="es">
+<seg>En los mercados latinoamericanos donde operamos, los líderes de negocios intentan equilibrar sus costos, evaluar sus ingresos futuros y desarrollar planes comerciales.</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="en">
+<seg>Research by global consulting firm Mercer backs this up: they found that almost two-thirds of Latin American companies are concerned about the economic impact of the crisis on their business, with 54% cutting immediate personnel and labor outlay.</seg>
+</tuv>
+<tuv xml:lang="es">
+<seg>De hecho, casi dos tercios de las empresas latinoamericanas están preocupadas por el impacto económico de la crisis y un 54% ha reducido drásticamente sus gastos de personal, según la consultora global Mercer.</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="en">
+<seg>These are quick fixes, but the indicators show that Covid-19 is going to need a long-term view. Latin American GDP is predicted to contract by around 5% this year, and domestic demand looks set to fall sharply as social distancing policies to curb the spread of the virus impact spending.</seg>
+</tuv>
+<tuv xml:lang="es">
+<seg>Si bien estas son soluciones inmediatas, la crisis del coronavirus necesitará una visión a largo plazo para enfrentar la posible reducción del PIB latinoamericano en casi un 5% en 2020 y la brusca disminución de la demanda de bienes y servicios a medida que el distanciamiento físico afecta la forma en la que la población invierte sus recursos.</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="en">
+<seg>Depending on the industrial sector, energy accounts for anything from the first to the fourth largest operating cost, and we’re starting to see companies influence their cost structure by making choices about energy sourcing and consumption.</seg>
+</tuv>
+<tuv xml:lang="es">
+<seg>Según el sector industrial, la energía eléctrica puede estar entre el primer y el cuarto costo operativo más grande de las empresas. De allí que las compañías hagan cambios en sus estructuras de costos y tomen decisiones sobre el suministro y consumo de energía.</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="en">
+<seg>Corporate power purchase agreements (PPAs) for renewable energy, whereby businesses purchase electricity directly from independent generators instead of from a utility, have risen in popularity in recent years, with 2019 seeing a threefold increase in deals in Latin America.</seg>
+</tuv>
+<tuv xml:lang="es">
+<seg>Una de las medidas para lidiar con los costos de la energía son los contratos de compraventa de electricidad (PPA, por sus siglas en inglés), mediante los cuales las empresas adquieren energía eléctrica de productores independientes en lugar de una empresa de servicios públicos. Tales contratos han aumentado en popularidad en los últimos años, tanto que en 2019 se triplicaron en América Latina.</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="en">
+<seg>Structured as a contract between a corporate off-taker and a power producer, they serve as an agreement to buy electricity at a fixed price over an agreed period.</seg>
+</tuv>
+<tuv xml:lang="es">
+<seg>Estos acuerdos entre un comprador corporativo y un productor independiente de energía establecen la compra de electricidad a un precio fijo durante un período.</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="en">
+<seg>For corporate buyers, this means visibility and certainty of future electricity costs as well as a hedge against energy price volatility –a key to thriving in the post-Covid-19 world.</seg>
+</tuv>
+<tuv xml:lang="es">
+<seg>Para los compradores corporativos, esto se traduce en visibilidad y seguridad en relación con los costos futuros de la electricidad, así como también en protección contra la volatilidad de los precios de la energía, algo clave en el mundo que vendrá después del covid-19.</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="en">
+<seg>Our team was the first to implement a solar private PPA in Chile some eight years ago, and we’ve since replicated this success in Brazil and Mexico.</seg>
+</tuv>
+<tuv xml:lang="es">
+<seg>En este sentido, nuestro equipo fue el primero en implementar un PPA privado solar en Chile hace aproximadamente ocho años, y desde entonces hemos expandido su éxito a Brasil y México.</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="en">
+<seg>We’re seeing an increasing number of inquiries from companies across industries as they look to find an energy strategy that supports their balance sheet in these straitened times, and we believe this trend will only continue.</seg>
+</tuv>
+<tuv xml:lang="es">
+<seg>Nos basamos en el hecho de que las compañías de todas las industrias están cada vez más interesadas en encontrar una estrategia energética que respalde sus presupuestos en estos tiempos de incertidumbre. Creemos que tal interés seguirá aumentando.</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="en">
+<seg>Governments look to renewables for a win</seg>
+</tuv>
+<tuv xml:lang="es">
+<seg>Los gobiernos buscan energías renovables para competir</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="en">
+<seg>As in the rest of the world, people around Latin America have looked to their governments to provide solutions to the coronavirus crisis.</seg>
+</tuv>
+<tuv xml:lang="es">
+<seg>Al igual que en el resto del mundo, las personas en América Latina han apelado a sus gobiernos ante la crisis del coronavirus.</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="en">
+<seg>Those perceived to have acted quickly have seen a groundswell of public support, but more far-reaching measures will be needed to set the economy in good stead for the coming months and years.</seg>
+</tuv>
+<tuv xml:lang="es">
+<seg>En este panorama, los gobiernos percibidos como eficaces en su actuación han recibido apoyo público, pero se necesitarán medidas de mayor alcance para lograr una economía estable durante los próximos meses y años.</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="en">
+<seg>As governments now move from immediate firefighting to a longer-term view, a renewables-based energy transition can support a resilient and equitable recovery to the crisis that leaves nobody behind.</seg>
+</tuv>
+<tuv xml:lang="es">
+<seg>Mientras que los gobiernos superan la fase de las decisiones inmediatas y empiezan a tener una visión de largo plazo de la situación, una transformación energética basada en las energías renovables puede apoyar una recuperación resiliente y equitativa que no deje a nadie atrás.</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="en">
+<seg>We’ve seen this ourselves in our projects that bring clean, cheaper energy alternatives across the region.</seg>
+</tuv>
+<tuv xml:lang="es">
+<seg>Nosotros mismos lo hemos experimentado con nuestros proyectos que brindan energía limpia y más económica en toda la región.</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="en">
+<seg>We’re not the only ones to believe in the power of renewables: In its Global Renewables Outlook, published in April this year, the International Renewable Energy Agency (IRENA) says that making the energy transition an integral part of the wider recovery will result in global GDP gains of almost US$100tn between now and 2050.</seg>
+</tuv>
+<tuv xml:lang="es">
+<seg>Además, no somos los únicos que creemos en el potencial de la energía renovable. La Agencia Internacional de las Energías Renovables (IRENA, por sus siglas en inglés) afirmó en su estudio Global Renewables Outlook, publicado en abril de este año, que incluir a la transición energética como parte integral del plan general de recuperación produciría ganancias al PIB mundial de casi 100 billones de dólares entre hoy y el año 2050.</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="en">
+<seg>In this regard, Latin American countries are already ahead of the curve.</seg>
+</tuv>
+<tuv xml:lang="es">
+<seg>En este sentido, los países latinoamericanos están a la vanguardia.</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="en">
+<seg>They have set a collective target of 70% renewable energy use by 2030, more than double the European Union’s target, while 81% of the region’s nationally determined contributions (NDCs) to the Paris Agreement on climate change have quantified renewable power targets – versus 67% globally.</seg>
+</tuv>
+<tuv xml:lang="es">
+<seg>Sus gobiernos ya establecieron un objetivo en común: en 2030, 70% de la electricidad de la región debe provenir de fuentes renovables, más del doble en comparación con la meta de la Unión Europea. Además, en el Acuerdo de París sobre el cambio climático el 81% de las contribuciones nacionalmente determinadas de América Latina tienen objetivos cuantificados de energía renovable, mientras que en el resto del mundo este porcentaje es menor: 67%.</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="en">
+<seg>Rather than compounding the tragedy of Covid-19 by allowing it to hinder clean energy transitions, we believe Latin America’s governments have an unprecedented opportunity to help accelerate them by using the current situation to step up their climate ambitions and launch sustainable stimulus packages focused on clean energy.</seg>
+</tuv>
+<tuv xml:lang="es">
+<seg>De allí que, en lugar de permitir que el covid-19 empeore la tragedia con obstáculos a la transición hacia una energía limpia, creemos que los gobiernos latinoamericanos tienen una oportunidad sin precedentes para acelerar esa transición. La clave es aprovechar la situación actual para que lleven sus ambiciones climáticas a otro nivel y lancen paquetes de estímulo sostenibles centrados en la energía limpia.</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="en">
+<seg>With costs far below those of traditional power plants, many renewable technologies can be ramped up relatively quickly, helping to revive industries and create as many as 3.2 million[1] new jobs in the region, offsetting – at least partially – the social and economic impacts of the coronavirus outbreak.</seg>
+</tuv>
+<tuv xml:lang="es">
+<seg>Con costos muy inferiores en comparación con las plantas de energía tradicionales, muchas tecnologías de energía renovable pueden desarrollarse con relativa rapidez; con ellas se puede ayudar a que las industrias se recuperen y crear hasta 3,2 millones de empleos en la región, lo que compensa, al menos parcialmente, los impactos sociales y económicos ocasionados por el coronavirus.</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="en">
+<seg>As oil falls, renewables are a safe haven for energy investors</seg>
+</tuv>
+<tuv xml:lang="es">
+<seg>Mientras los precios del petróleo caen, las energías renovables son un refugio para los inversionistas</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="en">
+<seg>Covid-19 isn’t the only shock disrupting Latin America’s economies.</seg>
+</tuv>
+<tuv xml:lang="es">
+<seg>El covid-19 no es la única crisis que sacude la economía de América Latina.</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="en">
+<seg>The current collapse in crude prices to well below the marginal lifting cost per barrel in most oil plays in the region has put exploration and development projects on hold.</seg>
+</tuv>
+<tuv xml:lang="es">
+<seg>El colapso de los precios del crudo, que han caído muy por debajo del costo marginal por barril de la mayoría de las empresas petroleras de la región, ha puesto en modo de espera los proyectos de exploración y producción de crudo.</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="en">
+<seg>Oversupply and falling demand have forced increasingly risk-averse investors to leave oil in their droves, with stocks and bonds in producers such as Ecopetrol, Petrobras, and Pemex falling significantly.</seg>
+</tuv>
+<tuv xml:lang="es">
+<seg>Además, el exceso de oferta y la caída de la demanda han obligado a los inversionistas (cada vez más adversos al riesgo) a abandonar sus inversiones en petróleo, mientras las acciones y los bonos de productores como Ecopetrol, Petrobras y Pemex caen significativamente.</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="en">
+<seg>This heightened unpredictability of returns on hydrocarbon investments has further bolstered the business case for clean energy, which has been strengthening in recent years.</seg>
+</tuv>
+<tuv xml:lang="es">
+<seg>La imprevisible rentabilidad de las inversiones en hidrocarburos ha dado más argumentos a favor de la energía renovable.</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="en">
+<seg>Until very recently, fossil fuels still held a competitive advantage over renewable electricity generation.</seg>
+</tuv>
+<tuv xml:lang="es">
+<seg>Hasta hace muy poco, los combustibles fósiles aún tenían ventajas sobre la energía renovable.</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="en">
+<seg>That is no longer the case.</seg>
+</tuv>
+<tuv xml:lang="es">
+<seg>Ya no.</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="en">
+<seg>In fact, Latin America’s unsubsidized renewable energy is now often the most affordable power source for numerous locations and markets.</seg>
+</tuv>
+<tuv xml:lang="es">
+<seg>De hecho, la energía renovable no subsidiada de América Latina se ha convertido en la fuente de energía más asequible para numerosos países y mercados.</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="en">
+<seg>We expect to see growing numbers of investors looking at solar and wind energy as a reliable, affordable, and scalable alternative, pumping funds into new projects which will support the region’s clean energy transition.</seg>
+</tuv>
+<tuv xml:lang="es">
+<seg>Por ello esperamos ver un aumento en el número de inversionistas que apuestan por la energía solar y eólica como una alternativa confiable, asequible y escalable, y que inyectan fondos en nuevos proyectos que respaldarán la transición hacia un mayor uso de energía limpia en la región.</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="en">
+<seg>A glimpse of the future</seg>
+</tuv>
+<tuv xml:lang="es">
+<seg>Un vistazo al futuro</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="en">
+<seg>Renewable energy’s ability to support the post-Covid recovery isn’t just about economics.</seg>
+</tuv>
+<tuv xml:lang="es">
+<seg>La capacidad de la energía renovable para apoyar la recuperación posterior al coronavirus no se trata solo de un asunto económico.</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="en">
+<seg>It’s about improving health conditions and quality of life in Latin America’s cities.</seg>
+</tuv>
+<tuv xml:lang="es">
+<seg>Está relacionado también con la mejora de las condiciones de salud y la calidad de vida en las ciudades de América Latina.</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="en">
+<seg>In recent months, we’ve seen what could be possible in a cleaner energy system.</seg>
+</tuv>
+<tuv xml:lang="es">
+<seg>En los últimos meses hemos sido testigos de lo que podría ser posible con un sistema de energía más limpio.</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="en">
+<seg>Research by Carbon Brief shows that the coronavirus crisis could trigger the largest ever annual fall in CO2 emissions this year.</seg>
+</tuv>
+<tuv xml:lang="es">
+<seg>De acuerdo con Carbon Brief, la crisis del coronavirus podría causar la mayor disminución anual de las emisiones de carbono de la historia.</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="en">
+<seg>As the world’s most urbanized region, with 80% of its population living in cities, Latin America has borne witness to this already.</seg>
+</tuv>
+<tuv xml:lang="es">
+<seg>América Latina ha sido testigo de ello, dado que es la región más metropolizada del mundo (80% de su población vive en ciudades).</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="en">
+<seg>Santiago de Chile, one of the region’s most air-polluted metropolises, has seen a 30% decline in smog, while citizens from Bogota to Belo Horizonte have filled social media with incredulous photos of clear skies.</seg>
+</tuv>
+<tuv xml:lang="es">
+<seg>En Santiago de Chile, por ejemplo, una de las metrópolis con problemas ambientales más graves, la contaminación del aire ha disminuido 30%, y desde Bogotá hasta Belo Horizonte se han viralizado en las redes sociales imágenes increíbles de cielos despejados.</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="en">
+<seg>We believe this new awareness of what the future could hold if the right energy choices are made will lead to growing pressure on governments and corporations alike from the region’s young, politically active population to curb the most critical instances of urban air pollution.</seg>
+</tuv>
+<tuv xml:lang="es">
+<seg>Esta nueva conciencia sobre lo que podría deparar el futuro si se tomaran las decisiones energéticas adecuadas aumentará la presión sobre los gobiernos y las corporaciones por parte de la población joven y políticamente activa de la región, para poner freno a los casos más críticos de contaminación del aire en las ciudades.</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="en">
+<seg>The pandemic will usher in long-lasting changes, and companies, governments, and investors have a once-in-a-lifetime opportunity to play a leading role in the new post-coronavirus reality.</seg>
+</tuv>
+<tuv xml:lang="es">
+<seg>La pandemia del coronavirus será el inicio de cambios profundos y duraderos. En ese sentido, las empresas, los gobiernos y los inversionistas tienen en este momento una oportunidad única para ejercer el liderazgo una vez que se supere la crisis del coronavirus.</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="en">
+<seg>Those that are able to bake in sustainable consumption, production, and progress towards carbon reduction targets to their business strategy will be at the crest of the wave, and, in our opinion, renewable energy’s cost savings, environmental benefits, and job creation opportunities will set it in good stead to become the backbone of growth as the region charts a path to recovery.</seg>
+</tuv>
+<tuv xml:lang="es">
+<seg>Creemos que estarán en la cresta de la ola aquellos que en sus estrategias de negocios se embarquen en la ruta del consumo, la producción y el progreso sostenibles hacia objetivos de reducción de emisiones de carbono. En nuestra opinión, las oportunidades de la energía renovable en términos de ahorro de costos, beneficios ambientales y creación de empleos pondrán a esta energía en un lugar privilegiado para convertirse en la columna vertebral del crecimiento, mientras la región traza su camino hacia la recuperación</seg>
+</tuv>
+</tu>
+</body>
+</tmx>
