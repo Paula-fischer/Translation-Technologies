@@ -1,0 +1,915 @@
+<html>
+  <head>
+    <title>biterms</title>
+    <meta http-equiv="Content-Type" content="text/html;charset=UTF-8">
+  </head>
+  <body>
+    <table>
+      <thead><tr><th>Source</th><th>Target</th><th>Score</th><th>Co-freq</th><th>L1 Freq</th><th>L2 Freq</th></tr></thead>
+      <tbody>
+        <tr>
+          <td>pandemic</td>
+          <td>pandemia</td>
+          <td>28.000</td>
+          <td>3</td>
+          <td>3</td>
+          <td>3</td>
+        </tr>
+        <tr>
+          <td>stimulus</td>
+          <td>estímulo</td>
+          <td>28.000</td>
+          <td>2</td>
+          <td>2</td>
+          <td>2</td>
+        </tr>
+        <tr>
+          <td>renewable energy power</td>
+          <td>recuperación de américa latina</td>
+          <td>28.000</td>
+          <td>2</td>
+          <td>2</td>
+          <td>2</td>
+        </tr>
+        <tr>
+          <td>price</td>
+          <td>comprador corporativo</td>
+          <td>28.000</td>
+          <td>2</td>
+          <td>2</td>
+          <td>2</td>
+        </tr>
+        <tr>
+          <td>energy strategy</td>
+          <td>estrategia energética</td>
+          <td>28.000</td>
+          <td>2</td>
+          <td>2</td>
+          <td>2</td>
+        </tr>
+        <tr>
+          <td>energy power</td>
+          <td>recuperación de américa latina</td>
+          <td>28.000</td>
+          <td>2</td>
+          <td>2</td>
+          <td>2</td>
+        </tr>
+        <tr>
+          <td>demand</td>
+          <td>demanda</td>
+          <td>28.000</td>
+          <td>2</td>
+          <td>2</td>
+          <td>2</td>
+        </tr>
+        <tr>
+          <td>consumption</td>
+          <td>consumo</td>
+          <td>28.000</td>
+          <td>2</td>
+          <td>2</td>
+          <td>2</td>
+        </tr>
+        <tr>
+          <td>wind energy</td>
+          <td>uso de energía limpia</td>
+          <td>28.000</td>
+          <td>1</td>
+          <td>1</td>
+          <td>1</td>
+        </tr>
+        <tr>
+          <td>wind</td>
+          <td>uso de energía limpia</td>
+          <td>28.000</td>
+          <td>1</td>
+          <td>1</td>
+          <td>1</td>
+        </tr>
+        <tr>
+          <td>wave</td>
+          <td>término de ahorro</td>
+          <td>28.000</td>
+          <td>1</td>
+          <td>1</td>
+          <td>1</td>
+        </tr>
+        <tr>
+          <td>volatility</td>
+          <td>volatilidad de el precio</td>
+          <td>28.000</td>
+          <td>1</td>
+          <td>1</td>
+          <td>1</td>
+        </tr>
+        <tr>
+          <td>visibility</td>
+          <td>volatilidad de el precio</td>
+          <td>28.000</td>
+          <td>1</td>
+          <td>1</td>
+          <td>1</td>
+        </tr>
+        <tr>
+          <td>virus impact spending</td>
+          <td>solución inmediata</td>
+          <td>28.000</td>
+          <td>1</td>
+          <td>1</td>
+          <td>1</td>
+        </tr>
+        <tr>
+          <td>virus impact</td>
+          <td>solución inmediata</td>
+          <td>28.000</td>
+          <td>1</td>
+          <td>1</td>
+          <td>1</td>
+        </tr>
+        <tr>
+          <td>utility</td>
+          <td>servicio público</td>
+          <td>28.000</td>
+          <td>1</td>
+          <td>1</td>
+          <td>1</td>
+        </tr>
+        <tr>
+          <td>use</td>
+          <td>unión europea</td>
+          <td>28.000</td>
+          <td>1</td>
+          <td>1</td>
+          <td>1</td>
+        </tr>
+        <tr>
+          <td>urban air pollution</td>
+          <td>población joven</td>
+          <td>28.000</td>
+          <td>1</td>
+          <td>1</td>
+          <td>1</td>
+        </tr>
+        <tr>
+          <td>urban air</td>
+          <td>población joven</td>
+          <td>28.000</td>
+          <td>1</td>
+          <td>1</td>
+          <td>1</td>
+        </tr>
+        <tr>
+          <td>unsubsidized renewable energy</td>
+          <td>fuente de energía</td>
+          <td>28.000</td>
+          <td>1</td>
+          <td>1</td>
+          <td>1</td>
+        </tr>
+        <tr>
+          <td>unpredictability</td>
+          <td>rentabilidad de la inversión</td>
+          <td>28.000</td>
+          <td>1</td>
+          <td>1</td>
+          <td>1</td>
+        </tr>
+        <tr>
+          <td>unprecedented opportunity</td>
+          <td>tragedia</td>
+          <td>28.000</td>
+          <td>1</td>
+          <td>1</td>
+          <td>1</td>
+        </tr>
+        <tr>
+          <td>trend</td>
+          <td>tiempo de incertidumbre</td>
+          <td>28.000</td>
+          <td>1</td>
+          <td>1</td>
+          <td>1</td>
+        </tr>
+        <tr>
+          <td>tragedy</td>
+          <td>tragedia</td>
+          <td>28.000</td>
+          <td>1</td>
+          <td>1</td>
+          <td>1</td>
+        </tr>
+        <tr>
+          <td>traditional power</td>
+          <td>tecnología de energía renovable</td>
+          <td>28.000</td>
+          <td>1</td>
+          <td>1</td>
+          <td>1</td>
+        </tr>
+        <tr>
+          <td>threefold increase</td>
+          <td>servicio público</td>
+          <td>28.000</td>
+          <td>1</td>
+          <td>1</td>
+          <td>1</td>
+        </tr>
+        <tr>
+          <td>team</td>
+          <td>éxito</td>
+          <td>28.000</td>
+          <td>1</td>
+          <td>1</td>
+          <td>1</td>
+        </tr>
+        <tr>
+          <td>taking stock</td>
+          <td>plan comercial</td>
+          <td>28.000</td>
+          <td>1</td>
+          <td>1</td>
+          <td>1</td>
+        </tr>
+        <tr>
+          <td>system</td>
+          <td>sistema de energía</td>
+          <td>28.000</td>
+          <td>1</td>
+          <td>1</td>
+          <td>1</td>
+        </tr>
+        <tr>
+          <td>sustainable stimulus</td>
+          <td>tragedia</td>
+          <td>28.000</td>
+          <td>1</td>
+          <td>1</td>
+          <td>1</td>
+        </tr>
+        <tr>
+          <td>sustainable consumption</td>
+          <td>término de ahorro</td>
+          <td>28.000</td>
+          <td>1</td>
+          <td>1</td>
+          <td>1</td>
+        </tr>
+        <tr>
+          <td>support</td>
+          <td>panorama</td>
+          <td>28.000</td>
+          <td>1</td>
+          <td>1</td>
+          <td>1</td>
+        </tr>
+        <tr>
+          <td>supply</td>
+          <td>servicio de américa latina</td>
+          <td>28.000</td>
+          <td>1</td>
+          <td>1</td>
+          <td>1</td>
+        </tr>
+        <tr>
+          <td>success</td>
+          <td>éxito</td>
+          <td>28.000</td>
+          <td>1</td>
+          <td>1</td>
+          <td>1</td>
+        </tr>
+        <tr>
+          <td>structure</td>
+          <td>sector industrial</td>
+          <td>28.000</td>
+          <td>1</td>
+          <td>1</td>
+          <td>1</td>
+        </tr>
+        <tr>
+          <td>strain</td>
+          <td>recesión</td>
+          <td>28.000</td>
+          <td>1</td>
+          <td>1</td>
+          <td>1</td>
+        </tr>
+        <tr>
+          <td>stock</td>
+          <td>plan comercial</td>
+          <td>28.000</td>
+          <td>1</td>
+          <td>1</td>
+          <td>1</td>
+        </tr>
+        <tr>
+          <td>spread</td>
+          <td>solución inmediata</td>
+          <td>28.000</td>
+          <td>1</td>
+          <td>1</td>
+          <td>1</td>
+        </tr>
+        <tr>
+          <td>spending</td>
+          <td>solución inmediata</td>
+          <td>28.000</td>
+          <td>1</td>
+          <td>1</td>
+          <td>1</td>
+        </tr>
+        <tr>
+          <td>source</td>
+          <td>fuente de energía</td>
+          <td>28.000</td>
+          <td>1</td>
+          <td>1</td>
+          <td>1</td>
+        </tr>
+        <tr>
+          <td>solid energy strategy</td>
+          <td>resiliencia sostenible</td>
+          <td>28.000</td>
+          <td>1</td>
+          <td>1</td>
+          <td>1</td>
+        </tr>
+        <tr>
+          <td>solid energy</td>
+          <td>resiliencia sostenible</td>
+          <td>28.000</td>
+          <td>1</td>
+          <td>1</td>
+          <td>1</td>
+        </tr>
+        <tr>
+          <td>social distancing</td>
+          <td>solución inmediata</td>
+          <td>28.000</td>
+          <td>1</td>
+          <td>1</td>
+          <td>1</td>
+        </tr>
+        <tr>
+          <td>smog</td>
+          <td>santiago de chile</td>
+          <td>28.000</td>
+          <td>1</td>
+          <td>1</td>
+          <td>1</td>
+        </tr>
+        <tr>
+          <td>situation</td>
+          <td>tragedia</td>
+          <td>28.000</td>
+          <td>1</td>
+          <td>1</td>
+          <td>1</td>
+        </tr>
+        <tr>
+          <td>shock</td>
+          <td>economía de américa latina</td>
+          <td>28.000</td>
+          <td>1</td>
+          <td>1</td>
+          <td>1</td>
+        </tr>
+        <tr>
+          <td>sheet</td>
+          <td>tiempo de incertidumbre</td>
+          <td>28.000</td>
+          <td>1</td>
+          <td>1</td>
+          <td>1</td>
+        </tr>
+        <tr>
+          <td>seeing business</td>
+          <td>plan comercial</td>
+          <td>28.000</td>
+          <td>1</td>
+          <td>1</td>
+          <td>1</td>
+        </tr>
+        <tr>
+          <td>sector</td>
+          <td>sector industrial</td>
+          <td>28.000</td>
+          <td>1</td>
+          <td>1</td>
+          <td>1</td>
+        </tr>
+        <tr>
+          <td>scalable alternative</td>
+          <td>uso de energía limpia</td>
+          <td>28.000</td>
+          <td>1</td>
+          <td>1</td>
+          <td>1</td>
+        </tr>
+        <tr>
+          <td>safe haven</td>
+          <td>refugio</td>
+          <td>28.000</td>
+          <td>1</td>
+          <td>1</td>
+          <td>1</td>
+        </tr>
+        <tr>
+          <td>role</td>
+          <td>pandemia del coronavirus</td>
+          <td>28.000</td>
+          <td>1</td>
+          <td>1</td>
+          <td>1</td>
+        </tr>
+        <tr>
+          <td>road</td>
+          <td>puerta</td>
+          <td>28.000</td>
+          <td>1</td>
+          <td>1</td>
+          <td>1</td>
+        </tr>
+        <tr>
+          <td>right energy</td>
+          <td>población joven</td>
+          <td>28.000</td>
+          <td>1</td>
+          <td>1</td>
+          <td>1</td>
+        </tr>
+        <tr>
+          <td>revenue</td>
+          <td>plan comercial</td>
+          <td>28.000</td>
+          <td>1</td>
+          <td>1</td>
+          <td>1</td>
+        </tr>
+        <tr>
+          <td>return</td>
+          <td>vuelta</td>
+          <td>28.000</td>
+          <td>1</td>
+          <td>1</td>
+          <td>1</td>
+        </tr>
+        <tr>
+          <td>rest</td>
+          <td>persona</td>
+          <td>28.000</td>
+          <td>1</td>
+          <td>1</td>
+          <td>1</td>
+        </tr>
+        <tr>
+          <td>resilience</td>
+          <td>resiliencia sostenible</td>
+          <td>28.000</td>
+          <td>1</td>
+          <td>1</td>
+          <td>1</td>
+        </tr>
+        <tr>
+          <td>renewables-based energy transition</td>
+          <td>visión de largo plazo</td>
+          <td>28.000</td>
+          <td>1</td>
+          <td>1</td>
+          <td>1</td>
+        </tr>
+        <tr>
+          <td>renewables-based energy</td>
+          <td>visión de largo plazo</td>
+          <td>28.000</td>
+          <td>1</td>
+          <td>1</td>
+          <td>1</td>
+        </tr>
+        <tr>
+          <td>renewable power</td>
+          <td>unión europea</td>
+          <td>28.000</td>
+          <td>1</td>
+          <td>1</td>
+          <td>1</td>
+        </tr>
+        <tr>
+          <td>renewable energy use</td>
+          <td>unión europea</td>
+          <td>28.000</td>
+          <td>1</td>
+          <td>1</td>
+          <td>1</td>
+        </tr>
+        <tr>
+          <td>renewable electricity generation</td>
+          <td>ventaja</td>
+          <td>28.000</td>
+          <td>1</td>
+          <td>1</td>
+          <td>1</td>
+        </tr>
+        <tr>
+          <td>renewable electricity</td>
+          <td>ventaja</td>
+          <td>28.000</td>
+          <td>1</td>
+          <td>1</td>
+          <td>1</td>
+        </tr>
+        <tr>
+          <td>regard</td>
+          <td>vanguardia</td>
+          <td>28.000</td>
+          <td>1</td>
+          <td>1</td>
+          <td>1</td>
+        </tr>
+        <tr>
+          <td>reduction</td>
+          <td>término de ahorro</td>
+          <td>28.000</td>
+          <td>1</td>
+          <td>1</td>
+          <td>1</td>
+        </tr>
+        <tr>
+          <td>recession</td>
+          <td>recesión</td>
+          <td>28.000</td>
+          <td>1</td>
+          <td>1</td>
+          <td>1</td>
+        </tr>
+        <tr>
+          <td>reality</td>
+          <td>pandemia del coronavirus</td>
+          <td>28.000</td>
+          <td>1</td>
+          <td>1</td>
+          <td>1</td>
+        </tr>
+        <tr>
+          <td>quality</td>
+          <td>vida</td>
+          <td>28.000</td>
+          <td>1</td>
+          <td>1</td>
+          <td>1</td>
+        </tr>
+        <tr>
+          <td>purchase</td>
+          <td>servicio público</td>
+          <td>28.000</td>
+          <td>1</td>
+          <td>1</td>
+          <td>1</td>
+        </tr>
+        <tr>
+          <td>public support</td>
+          <td>panorama</td>
+          <td>28.000</td>
+          <td>1</td>
+          <td>1</td>
+          <td>1</td>
+        </tr>
+        <tr>
+          <td>progress</td>
+          <td>término de ahorro</td>
+          <td>28.000</td>
+          <td>1</td>
+          <td>1</td>
+          <td>1</td>
+        </tr>
+        <tr>
+          <td>production</td>
+          <td>término de ahorro</td>
+          <td>28.000</td>
+          <td>1</td>
+          <td>1</td>
+          <td>1</td>
+        </tr>
+        <tr>
+          <td>producer</td>
+          <td>productor independiente de energía</td>
+          <td>28.000</td>
+          <td>1</td>
+          <td>1</td>
+          <td>1</td>
+        </tr>
+        <tr>
+          <td>price volatility</td>
+          <td>volatilidad de el precio</td>
+          <td>28.000</td>
+          <td>1</td>
+          <td>1</td>
+          <td>1</td>
+        </tr>
+        <tr>
+          <td>pressure</td>
+          <td>población joven</td>
+          <td>28.000</td>
+          <td>1</td>
+          <td>1</td>
+          <td>1</td>
+        </tr>
+        <tr>
+          <td>power source</td>
+          <td>fuente de energía</td>
+          <td>28.000</td>
+          <td>1</td>
+          <td>1</td>
+          <td>1</td>
+        </tr>
+        <tr>
+          <td>power purchase</td>
+          <td>servicio público</td>
+          <td>28.000</td>
+          <td>1</td>
+          <td>1</td>
+          <td>1</td>
+        </tr>
+        <tr>
+          <td>power producer</td>
+          <td>productor independiente de energía</td>
+          <td>28.000</td>
+          <td>1</td>
+          <td>1</td>
+          <td>1</td>
+        </tr>
+        <tr>
+          <td>post-covid-19 world</td>
+          <td>volatilidad de el precio</td>
+          <td>28.000</td>
+          <td>1</td>
+          <td>1</td>
+          <td>1</td>
+        </tr>
+        <tr>
+          <td>post-covid recovery</td>
+          <td>recuperación posterior</td>
+          <td>28.000</td>
+          <td>1</td>
+          <td>1</td>
+          <td>1</td>
+        </tr>
+        <tr>
+          <td>post-coronavirus reality</td>
+          <td>pandemia del coronavirus</td>
+          <td>28.000</td>
+          <td>1</td>
+          <td>1</td>
+          <td>1</td>
+        </tr>
+        <tr>
+          <td>post-coronavirus</td>
+          <td>pandemia del coronavirus</td>
+          <td>28.000</td>
+          <td>1</td>
+          <td>1</td>
+          <td>1</td>
+        </tr>
+        <tr>
+          <td>popularity</td>
+          <td>servicio público</td>
+          <td>28.000</td>
+          <td>1</td>
+          <td>1</td>
+          <td>1</td>
+        </tr>
+        <tr>
+          <td>pollution</td>
+          <td>población joven</td>
+          <td>28.000</td>
+          <td>1</td>
+          <td>1</td>
+          <td>1</td>
+        </tr>
+        <tr>
+          <td>period</td>
+          <td>productor independiente de energía</td>
+          <td>28.000</td>
+          <td>1</td>
+          <td>1</td>
+          <td>1</td>
+        </tr>
+        <tr>
+          <td>path</td>
+          <td>término de ahorro</td>
+          <td>28.000</td>
+          <td>1</td>
+          <td>1</td>
+          <td>1</td>
+        </tr>
+        <tr>
+          <td>part</td>
+          <td>transición energética</td>
+          <td>28.000</td>
+          <td>1</td>
+          <td>1</td>
+          <td>1</td>
+        </tr>
+        <tr>
+          <td>oversupply</td>
+          <td>riesgo</td>
+          <td>28.000</td>
+          <td>1</td>
+          <td>1</td>
+          <td>1</td>
+        </tr>
+        <tr>
+          <td>outlook</td>
+          <td>transición energética</td>
+          <td>28.000</td>
+          <td>1</td>
+          <td>1</td>
+          <td>1</td>
+        </tr>
+        <tr>
+          <td>outlay</td>
+          <td>tercio de la empresa latinoamericana</td>
+          <td>28.000</td>
+          <td>1</td>
+          <td>1</td>
+          <td>1</td>
+        </tr>
+        <tr>
+          <td>opinion</td>
+          <td>término de ahorro</td>
+          <td>28.000</td>
+          <td>1</td>
+          <td>1</td>
+          <td>1</td>
+        </tr>
+        <tr>
+          <td>operating cost</td>
+          <td>sector industrial</td>
+          <td>28.000</td>
+          <td>1</td>
+          <td>1</td>
+          <td>1</td>
+        </tr>
+        <tr>
+          <td>only shock</td>
+          <td>economía de américa latina</td>
+          <td>28.000</td>
+          <td>1</td>
+          <td>1</td>
+          <td>1</td>
+        </tr>
+        <tr>
+          <td>once-in-a-lifetime opportunity</td>
+          <td>pandemia del coronavirus</td>
+          <td>28.000</td>
+          <td>1</td>
+          <td>1</td>
+          <td>1</td>
+        </tr>
+        <tr>
+          <td>once-in-a-lifetime</td>
+          <td>pandemia del coronavirus</td>
+          <td>28.000</td>
+          <td>1</td>
+          <td>1</td>
+          <td>1</td>
+        </tr>
+        <tr>
+          <td>off-taker</td>
+          <td>productor independiente de energía</td>
+          <td>28.000</td>
+          <td>1</td>
+          <td>1</td>
+          <td>1</td>
+        </tr>
+        <tr>
+          <td>number</td>
+          <td>tiempo de incertidumbre</td>
+          <td>28.000</td>
+          <td>1</td>
+          <td>1</td>
+          <td>1</td>
+        </tr>
+        <tr>
+          <td>normality</td>
+          <td>vuelta</td>
+          <td>28.000</td>
+          <td>1</td>
+          <td>1</td>
+          <td>1</td>
+        </tr>
+        <tr>
+          <td>nobody</td>
+          <td>visión de largo plazo</td>
+          <td>28.000</td>
+          <td>1</td>
+          <td>1</td>
+          <td>1</td>
+        </tr>
+        <tr>
+          <td>new post-coronavirus reality</td>
+          <td>pandemia del coronavirus</td>
+          <td>28.000</td>
+          <td>1</td>
+          <td>1</td>
+          <td>1</td>
+        </tr>
+        <tr>
+          <td>new post-coronavirus</td>
+          <td>pandemia del coronavirus</td>
+          <td>28.000</td>
+          <td>1</td>
+          <td>1</td>
+          <td>1</td>
+        </tr>
+        <tr>
+          <td>new awareness</td>
+          <td>población joven</td>
+          <td>28.000</td>
+          <td>1</td>
+          <td>1</td>
+          <td>1</td>
+        </tr>
+        <tr>
+          <td>means visibility</td>
+          <td>volatilidad de el precio</td>
+          <td>28.000</td>
+          <td>1</td>
+          <td>1</td>
+          <td>1</td>
+        </tr>
+        <tr>
+          <td>means</td>
+          <td>volatilidad de el precio</td>
+          <td>28.000</td>
+          <td>1</td>
+          <td>1</td>
+          <td>1</td>
+        </tr>
+        <tr>
+          <td>marginal lifting cost</td>
+          <td>proyecto de exploración</td>
+          <td>28.000</td>
+          <td>1</td>
+          <td>1</td>
+          <td>1</td>
+        </tr>
+        <tr>
+          <td>marginal lifting</td>
+          <td>proyecto de exploración</td>
+          <td>28.000</td>
+          <td>1</td>
+          <td>1</td>
+          <td>1</td>
+        </tr>
+        <tr>
+          <td>longer-term view</td>
+          <td>visión de largo plazo</td>
+          <td>28.000</td>
+          <td>1</td>
+          <td>1</td>
+          <td>1</td>
+        </tr>
+        <tr>
+          <td>long-term view</td>
+          <td>solución inmediata</td>
+          <td>28.000</td>
+          <td>1</td>
+          <td>1</td>
+          <td>1</td>
+        </tr>
+        <tr>
+          <td>long-term resilience</td>
+          <td>resiliencia sostenible</td>
+          <td>28.000</td>
+          <td>1</td>
+          <td>1</td>
+          <td>1</td>
+        </tr>
+        <tr>
+          <td>liquidity</td>
+          <td>virus</td>
+          <td>28.000</td>
+          <td>1</td>
+          <td>1</td>
+          <td>1</td>
+        </tr>
+        <tr>
+          <td>lifting cost</td>
+          <td>proyecto de exploración</td>
+          <td>28.000</td>
+          <td>1</td>
+          <td>1</td>
+          <td>1</td>
+        </tr>
+        <tr>
+          <td>lifting</td>
+          <td>proyecto de exploración</td>
+          <td>28.000</td>
+          <td>1</td>
+          <td>1</td>
+          <td>1</td>
+        </tr>
+      </tbody>
+</table></body></html>
